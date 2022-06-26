@@ -15,6 +15,6 @@ console.log(runningSum(arr2));
 
 // Complexity - O(n)
 
-// Runtime: 69ms, faster than 85,7%
+// Runtime: 69 ms, faster than 85,7%
 // Memory Usage: 42.3 MB, less than 71%
 
