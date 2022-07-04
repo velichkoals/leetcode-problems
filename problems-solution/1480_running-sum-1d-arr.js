@@ -1,4 +1,4 @@
-const arr2 = [1, 5, 15, 25];
+const arr = [1, 5, 15, 25];
 
 const runningSum = (nums) => {
     const res = [];
@@ -11,7 +11,7 @@ const runningSum = (nums) => {
     return res;
 }
 
-console.log(runningSum(arr2));
+console.log(runningSum(arr));
 
 // Complexity - O(n)
 
